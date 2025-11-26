@@ -1,0 +1,640 @@
+UKTZED Verification Report v2 (Official DBF + Instruction Logic)
+==============================================================
+NOTE: 'Generalized group' means the code exists as a heading but the DBF has more specific sub-codes.
+      If your accounting software accepts 8-digit or generalized codes, you may ignore these.
+
+📄 File: batch_001.csv
+  - Line 5: Code '8538 90 00 00' is a generalized group. Official DBF has specific sub-codes: 8538 90 11 00, 8538 90 19 00, 8538 90 91 00, 8538 90 99 00
+  - Line 6: Code '8456 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8456 11 10 00, 8456 11 90 00
+  - Line 7: Code '8525 80 19 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 18: Code '8456 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8456 11 10 00, 8456 11 90 00
+  - Line 19: Code '8456 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8456 11 10 00, 8456 11 90 00
+  - Line 21: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 22: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 23: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 24: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 25: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 26: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 31: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 32: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 33: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 34: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 35: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 36: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 37: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 38: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 39: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 40: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 41: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 42: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 43: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 44: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 45: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 46: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 49: Code '8428 39 00 00' is a generalized group. Official DBF has specific sub-codes: 8428 39 20 00, 8428 39 90 00
+  - Line 50: Code '8428 39 00 00' is a generalized group. Official DBF has specific sub-codes: 8428 39 20 00, 8428 39 90 00
+  - Line 54: Code '9406 90 00 90' NOT FOUND in DBF.
+  - Line 55: Code '8504 33 00 00' is a generalized group. Official DBF has specific sub-codes: 8504 33 00, 8504 33 00 10, 8504 33 00 90
+  - Line 56: Code '8418 10 20 00' is a generalized group. Official DBF has specific sub-codes: 8418 10 20 10, 8418 10 20 91, 8418 10 20 98
+  - Line 59: Code '8424 89 90 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 64: Code '8507 20 80 00' is a generalized group. Official DBF has specific sub-codes: 8507 20 80 10, 8507 20 80 90
+
+📄 File: batch_002.csv
+  - Line 4: Code '8518 21 00 00' is a generalized group. Official DBF has specific sub-codes: 8518 21 00, 8518 21 00 10, 8518 21 00 30, 8518 21 00 90
+  - Line 5: Code '8518 21 00 00' is a generalized group. Official DBF has specific sub-codes: 8518 21 00, 8518 21 00 10, 8518 21 00 30, 8518 21 00 90
+  - Line 6: Code '8518 21 00 00' is a generalized group. Official DBF has specific sub-codes: 8518 21 00, 8518 21 00 10, 8518 21 00 30, 8518 21 00 90
+  - Line 7: Code '8518 21 00 00' is a generalized group. Official DBF has specific sub-codes: 8518 21 00, 8518 21 00 10, 8518 21 00 30, 8518 21 00 90
+  - Line 8: Code '8518 21 00 00' is a generalized group. Official DBF has specific sub-codes: 8518 21 00, 8518 21 00 10, 8518 21 00 30, 8518 21 00 90
+  - Line 15: Code '8419 50 00 00' is a generalized group. Official DBF has specific sub-codes: 8419 50 20 00, 8419 50 80 00
+  - Line 16: Code '8424 89 90 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 18: Code '8203 20 99 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 22: Code '8424 89 90 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 32: Code '8502 20 00 00' is a generalized group. Official DBF has specific sub-codes: 8502 20 20, 8502 20 20 10, 8502 20 20 90, 8502 20 40, 8502 20 40 10
+  - Line 39: Code '8441 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8441 10 10 00, 8441 10 20 00, 8441 10 30 00, 8441 10 70 00
+  - Line 47: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 49: Code '9406 90 00 90' NOT FOUND in DBF.
+  - Line 50: Code '9406 90 00 90' NOT FOUND in DBF.
+  - Line 51: Code '9406 90 00 90' NOT FOUND in DBF.
+  - Line 52: Code '9406 90 00 90' NOT FOUND in DBF.
+  - Line 53: Code '9406 90 00 90' NOT FOUND in DBF.
+  - Line 54: Code '9406 90 00 90' NOT FOUND in DBF.
+  - Line 55: Code '9406 90 00 90' NOT FOUND in DBF.
+  - Line 56: Code '9406 90 00 90' NOT FOUND in DBF.
+  - Line 57: Code '9406 90 00 90' NOT FOUND in DBF.
+  - Line 58: Code '9406 90 00 90' NOT FOUND in DBF.
+  - Line 59: Code '9406 90 00 90' NOT FOUND in DBF.
+  - Line 60: Code '9406 90 00 90' NOT FOUND in DBF.
+  - Line 61: Code '9406 90 00 90' NOT FOUND in DBF.
+  - Line 62: Code '9406 90 00 90' NOT FOUND in DBF.
+  - Line 63: Logic Mismatch for 'БФП HP LaserJet Pro M426dw with Wi-Fi'. Found '8443 32 10 00', Expected category '851762' (Network Gear (8517 62))
+  - Line 65: Code '8423 81 50 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 66: Code '8423 81 90 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 67: Code '8423 81 90 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 68: Code '8423 82 00 00' is a generalized group. Official DBF has specific sub-codes: 8423 82 20, 8423 82 20 10, 8423 82 20 90, 8423 82 81 00, 8423 82 89
+  - Line 69: Code '8423 81 50 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 74: Code '8537 10 90 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 75: Code '8414 59 95 00' is a generalized group. Official DBF has specific sub-codes: 8414 59 95 10, 8414 59 95 90
+  - Line 76: Code '8414 59 95 00' is a generalized group. Official DBF has specific sub-codes: 8414 59 95 10, 8414 59 95 90
+  - Line 77: Code '8414 59 95 00' is a generalized group. Official DBF has specific sub-codes: 8414 59 95 10, 8414 59 95 90
+  - Line 78: Code '8414 59 95 00' is a generalized group. Official DBF has specific sub-codes: 8414 59 95 10, 8414 59 95 90
+  - Line 80: Code '8459 61 00 00' is a generalized group. Official DBF has specific sub-codes: 8459 61 10 00, 8459 61 90 00
+  - Line 81: Code '8479 89 97 00' is a generalized group. Official DBF has specific sub-codes: 8479 89 97 10, 8479 89 97 20, 8479 89 97 30, 8479 89 97 50, 8479 89 97 90
+  - Line 84: Code '8479 89 97 00' is a generalized group. Official DBF has specific sub-codes: 8479 89 97 10, 8479 89 97 20, 8479 89 97 30, 8479 89 97 50, 8479 89 97 90
+  - Line 85: Code '8458 19 00 00' is a generalized group. Official DBF has specific sub-codes: 8458 19 00, 8458 19 00 10, 8458 19 00 90
+  - Line 86: Code '8460 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8460 29 10 00, 8460 29 90 00
+  - Line 89: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 90: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 91: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 92: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 93: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 94: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 95: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 96: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 97: Code '8458 19 00 00' is a generalized group. Official DBF has specific sub-codes: 8458 19 00, 8458 19 00 10, 8458 19 00 90
+  - Line 98: Code '8419 39 00 00' is a generalized group. Official DBF has specific sub-codes: 8419 39 00, 8419 39 00 10, 8419 39 00 90
+  - Line 99: Code '8424 20 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 20 00, 8424 20 00 10, 8424 20 00 90
+  - Line 100: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 101: Code '8458 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8458 11 20 00, 8458 11 41 00, 8458 11 49 00, 8458 11 80 00
+
+📄 File: batch_003.csv
+  - Line 2: Code '8479 89 97 00' is a generalized group. Official DBF has specific sub-codes: 8479 89 97 10, 8479 89 97 20, 8479 89 97 30, 8479 89 97 50, 8479 89 97 90
+  - Line 3: Code '8479 89 97 00' is a generalized group. Official DBF has specific sub-codes: 8479 89 97 10, 8479 89 97 20, 8479 89 97 30, 8479 89 97 50, 8479 89 97 90
+  - Line 4: Code '8479 89 97 00' is a generalized group. Official DBF has specific sub-codes: 8479 89 97 10, 8479 89 97 20, 8479 89 97 30, 8479 89 97 50, 8479 89 97 90
+  - Line 5: Code '8479 89 97 00' is a generalized group. Official DBF has specific sub-codes: 8479 89 97 10, 8479 89 97 20, 8479 89 97 30, 8479 89 97 50, 8479 89 97 90
+  - Line 6: Code '8479 89 97 00' is a generalized group. Official DBF has specific sub-codes: 8479 89 97 10, 8479 89 97 20, 8479 89 97 30, 8479 89 97 50, 8479 89 97 90
+  - Line 7: Code '9026 10 10 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 8: Code '8414 59 95 00' is a generalized group. Official DBF has specific sub-codes: 8414 59 95 10, 8414 59 95 90
+  - Line 9: Code '8414 59 95 00' is a generalized group. Official DBF has specific sub-codes: 8414 59 95 10, 8414 59 95 90
+  - Line 12: Code '8525 80 19 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 72: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 73: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 74: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 75: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 76: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 77: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 78: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 79: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 80: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 81: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 82: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 83: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 84: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 85: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 86: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 87: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 88: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 89: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 90: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 91: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 92: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 93: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 94: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 95: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 96: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 97: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 98: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 99: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+  - Line 100: Code '8424 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 10 00, 8424 10 00 10, 8424 10 00 90
+
+📄 File: batch_004.csv
+  - Line 5: Code '8414 80 22 00' is a generalized group. Official DBF has specific sub-codes: 8414 80 22 10, 8414 80 22 91, 8414 80 22 98
+  - Line 6: Code '8462 10 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 52: Code '8502 20 00 00' is a generalized group. Official DBF has specific sub-codes: 8502 20 20, 8502 20 20 10, 8502 20 20 90, 8502 20 40, 8502 20 40 10
+  - Line 53: Code '8479 89 97 00' is a generalized group. Official DBF has specific sub-codes: 8479 89 97 10, 8479 89 97 20, 8479 89 97 30, 8479 89 97 50, 8479 89 97 90
+  - Line 54: Code '8479 89 97 00' is a generalized group. Official DBF has specific sub-codes: 8479 89 97 10, 8479 89 97 20, 8479 89 97 30, 8479 89 97 50, 8479 89 97 90
+  - Line 55: Code '7326 90 98 00' is a generalized group. Official DBF has specific sub-codes: 7326 90 98 10, 7326 90 98 90
+  - Line 59: Code '8479 82 00 00' is a generalized group. Official DBF has specific sub-codes: 8479 82 00, 8479 82 00 10, 8479 82 00 90
+  - Line 60: Code '8477 80 00 00' is a generalized group. Official DBF has specific sub-codes: 8477 80 11 00, 8477 80 19 00, 8477 80 91 00, 8477 80 93 00, 8477 80 95 00
+  - Line 63: Code '8544 49 93 00' is a generalized group. Official DBF has specific sub-codes: 8544 49 93 10, 8544 49 93 91, 8544 49 93 93, 8544 49 93 98
+  - Line 72: Code '8456 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8456 30 11 00, 8456 30 19 00, 8456 30 90 00
+  - Line 73: Code '8505 90 00 00' is a generalized group. Official DBF has specific sub-codes: 8505 90 21 00, 8505 90 29, 8505 90 29 10, 8505 90 29 90, 8505 90 50 00
+  - Line 74: Code '8424 20 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 20 00, 8424 20 00 10, 8424 20 00 90
+  - Line 75: Code '8428 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8428 10 20 00, 8428 10 80 00
+  - Line 93: Code '3920 10 89 00' is a generalized group. Official DBF has specific sub-codes: 3920 10 89 10, 3920 10 89 90
+  - Line 94: Code '3920 10 89 00' is a generalized group. Official DBF has specific sub-codes: 3920 10 89 10, 3920 10 89 90
+  - Line 95: Code '3920 10 89 00' is a generalized group. Official DBF has specific sub-codes: 3920 10 89 10, 3920 10 89 90
+  - Line 96: Code '3920 10 89 00' is a generalized group. Official DBF has specific sub-codes: 3920 10 89 10, 3920 10 89 90
+  - Line 97: Code '3920 10 89 00' is a generalized group. Official DBF has specific sub-codes: 3920 10 89 10, 3920 10 89 90
+  - Line 98: Code '3920 10 89 00' is a generalized group. Official DBF has specific sub-codes: 3920 10 89 10, 3920 10 89 90
+  - Line 99: Code '3920 10 89 00' is a generalized group. Official DBF has specific sub-codes: 3920 10 89 10, 3920 10 89 90
+
+📄 File: batch_005.csv
+  - Line 5: Code '8205 59 80 00' is a generalized group. Official DBF has specific sub-codes: 8205 59 80 10, 8205 59 80 90
+  - Line 6: Code '8205 59 80 00' is a generalized group. Official DBF has specific sub-codes: 8205 59 80 10, 8205 59 80 90
+  - Line 7: Code '8205 59 80 00' is a generalized group. Official DBF has specific sub-codes: 8205 59 80 10, 8205 59 80 90
+
+📄 File: batch_006.csv
+  - Line 3: Code '8414 80 22 00' is a generalized group. Official DBF has specific sub-codes: 8414 80 22 10, 8414 80 22 91, 8414 80 22 98
+  - Line 4: Code '8414 80 22 00' is a generalized group. Official DBF has specific sub-codes: 8414 80 22 10, 8414 80 22 91, 8414 80 22 98
+  - Line 5: Code '8414 80 22 00' is a generalized group. Official DBF has specific sub-codes: 8414 80 22 10, 8414 80 22 91, 8414 80 22 98
+  - Line 6: Code '8414 80 22 00' is a generalized group. Official DBF has specific sub-codes: 8414 80 22 10, 8414 80 22 91, 8414 80 22 98
+  - Line 7: Code 'Не класифікується' NOT FOUND in DBF.
+  - Line 29: Code 'Апаратура для прийому, перетворення, передавання або відновлення голосу' NOT FOUND in DBF.
+  - Line 29: Logic Mismatch for 'Комутатор Planet  IGS-10020PT'. Found 'Апаратура для прийому, перетворення, передавання або відновлення голосу', Expected category '851762' (Network Gear (8517 62))
+  - Line 30: Code 'Апаратура для прийому, перетворення, передавання або відновлення голосу' NOT FOUND in DBF.
+  - Line 30: Logic Mismatch for 'Комутатор Planet  IGS-10020PT'. Found 'Апаратура для прийому, перетворення, передавання або відновлення голосу', Expected category '851762' (Network Gear (8517 62))
+  - Line 31: Code 'Апаратура для прийому, перетворення, передавання або відновлення голосу' NOT FOUND in DBF.
+  - Line 31: Logic Mismatch for 'Комутатор PLANET GSW-2620HP'. Found 'Апаратура для прийому, перетворення, передавання або відновлення голосу', Expected category '851762' (Network Gear (8517 62))
+  - Line 32: Code 'Апаратура для прийому, перетворення, передавання або відновлення голосу' NOT FOUND in DBF.
+  - Line 32: Logic Mismatch for 'Комутатор Planet IGS-624 HPT IP 30 6-port Gigabit Switch with u-Port 802.3 AT POE+ plus 2-port 100/1'. Found 'Апаратура для прийому, перетворення, передавання або відновлення голосу', Expected category '851762' (Network Gear (8517 62))
+  - Line 33: Code 'Апаратура для прийому, перетворення, передавання або відновлення голосу' NOT FOUND in DBF.
+  - Line 33: Logic Mismatch for 'Комутатор Planet IGS-624 HPT IP 30 6-port Gigabit Switch with u-Port 802.3 AT POE+ plus 2-port 100/1'. Found 'Апаратура для прийому, перетворення, передавання або відновлення голосу', Expected category '851762' (Network Gear (8517 62))
+  - Line 45: Code '8516 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8516 29 10 00, 8516 29 50 00, 8516 29 91 00, 8516 29 99 00
+  - Line 71: Code '9031 80 98 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 72: Logic Mismatch for 'Корпус для 3,5" HDD/SDD CHIEFTEC External Box CEB-7035S'. Found '8473 30 80 00', Expected category '8538' (Parts/Cases (8538))
+  - Line 73: Code '8403 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8403 10 10 00, 8403 10 90, 8403 10 90 10, 8403 10 90 20, 8403 10 90 90
+  - Line 74: Code '8403 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8403 10 10 00, 8403 10 90, 8403 10 90 10, 8403 10 90 20, 8403 10 90 90
+  - Line 75: Code '8403 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8403 10 10 00, 8403 10 90, 8403 10 90 10, 8403 10 90 20, 8403 10 90 90
+  - Line 76: Code '8403 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8403 10 10 00, 8403 10 90, 8403 10 90 10, 8403 10 90 20, 8403 10 90 90
+  - Line 77: Code '8403 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8403 10 10 00, 8403 10 90, 8403 10 90 10, 8403 10 90 20, 8403 10 90 90
+  - Line 78: Code '8402 19 00 00' is a generalized group. Official DBF has specific sub-codes: 8402 19 10 00, 8402 19 90 00
+  - Line 79: Code '8402 19 00 00' is a generalized group. Official DBF has specific sub-codes: 8402 19 10 00, 8402 19 90 00
+  - Line 81: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 82: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 83: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 84: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 85: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 86: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 87: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 88: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 89: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 90: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 91: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 92: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 93: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 94: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 95: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 96: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 97: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 98: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 99: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 100: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+  - Line 101: Code 'Меблі інші та їх частини' NOT FOUND in DBF.
+
+📄 File: batch_007.csv
+  - Line 33: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 34: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 35: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 36: Code '8456 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8456 11 10 00, 8456 11 90 00
+  - Line 37: Code '8456 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8456 11 10 00, 8456 11 90 00
+  - Line 38: Code '8443 19 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 19 20 00, 8443 19 40 00, 8443 19 70 00
+  - Line 43: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 44: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 52: Code '9031 80 99 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 55: Code '8443 99 90 00' is a generalized group. Official DBF has specific sub-codes: 8443 99 90 10, 8443 99 90 90
+  - Line 74: Code '9031 80 99 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 75: Code '8422 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8422 30 00, 8422 30 00 10, 8422 30 00 91, 8422 30 00 99
+  - Line 76: Code '8422 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8422 30 00, 8422 30 00 10, 8422 30 00 91, 8422 30 00 99
+  - Line 77: Code '8422 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8422 30 00, 8422 30 00 10, 8422 30 00 91, 8422 30 00 99
+  - Line 78: Code '8422 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8422 30 00, 8422 30 00 10, 8422 30 00 91, 8422 30 00 99
+  - Line 79: Code '8479 89 97 00' is a generalized group. Official DBF has specific sub-codes: 8479 89 97 10, 8479 89 97 20, 8479 89 97 30, 8479 89 97 50, 8479 89 97 90
+  - Line 80: Code '8479 89 97 00' is a generalized group. Official DBF has specific sub-codes: 8479 89 97 10, 8479 89 97 20, 8479 89 97 30, 8479 89 97 50, 8479 89 97 90
+  - Line 86: Code '8460 90 00 00' is a generalized group. Official DBF has specific sub-codes: 8460 90 00, 8460 90 00 10, 8460 90 00 90
+  - Line 87: Code '8479 89 99 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 90: Code '9403 90 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 91: Code '9030 33 00 00' is a generalized group. Official DBF has specific sub-codes: 9030 33 20 00, 9030 33 70 00
+  - Line 92: Code '9030 33 00 00' is a generalized group. Official DBF has specific sub-codes: 9030 33 20 00, 9030 33 70 00
+  - Line 93: Code '9030 33 00 00' is a generalized group. Official DBF has specific sub-codes: 9030 33 20 00, 9030 33 70 00
+  - Line 95: Code '8536 69 90 00' is a generalized group. Official DBF has specific sub-codes: 8536 69 90 10, 8536 69 90 90
+  - Line 96: Code '8536 69 90 00' is a generalized group. Official DBF has specific sub-codes: 8536 69 90 10, 8536 69 90 90
+  - Line 97: Code '8536 69 90 00' is a generalized group. Official DBF has specific sub-codes: 8536 69 90 10, 8536 69 90 90
+  - Line 98: Code '8536 69 90 00' is a generalized group. Official DBF has specific sub-codes: 8536 69 90 10, 8536 69 90 90
+  - Line 99: Code '8536 69 90 00' is a generalized group. Official DBF has specific sub-codes: 8536 69 90 10, 8536 69 90 90
+  - Line 100: Code '8536 69 90 00' is a generalized group. Official DBF has specific sub-codes: 8536 69 90 10, 8536 69 90 90
+  - Line 101: Code '8536 69 90 00' is a generalized group. Official DBF has specific sub-codes: 8536 69 90 10, 8536 69 90 90
+
+📄 File: batch_008.csv
+  - Line 2: Code '8544 42 90 00' is a generalized group. Official DBF has specific sub-codes: 8544 42 90 10, 8544 42 90 91, 8544 42 90 98
+  - Line 12: Code '8424 49 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 49 10 00, 8424 49 90 00
+  - Line 15: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 16: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 17: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 18: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 19: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 20: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 21: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 22: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 23: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 24: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 25: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 26: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 27: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 58: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 60: Code '8427 20 00 00' is a generalized group. Official DBF has specific sub-codes: 8427 20 11 00, 8427 20 19 00, 8427 20 90 00
+  - Line 61: Code '8427 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8427 10 10 00, 8427 10 90 00
+  - Line 62: Code '8427 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8427 10 10 00, 8427 10 90 00
+  - Line 71: Code '8413 70 00 00' is a generalized group. Official DBF has specific sub-codes: 8413 70 21 00, 8413 70 29 00, 8413 70 30 00, 8413 70 35 00, 8413 70 45 00
+  - Line 72: Code '8413 70 00 00' is a generalized group. Official DBF has specific sub-codes: 8413 70 21 00, 8413 70 29 00, 8413 70 30 00, 8413 70 35 00, 8413 70 45 00
+  - Line 73: Code '8413 70 00 00' is a generalized group. Official DBF has specific sub-codes: 8413 70 21 00, 8413 70 29 00, 8413 70 30 00, 8413 70 35 00, 8413 70 45 00
+  - Line 74: Code '8413 70 00 00' is a generalized group. Official DBF has specific sub-codes: 8413 70 21 00, 8413 70 29 00, 8413 70 30 00, 8413 70 35 00, 8413 70 45 00
+  - Line 75: Code '8413 70 00 00' is a generalized group. Official DBF has specific sub-codes: 8413 70 21 00, 8413 70 29 00, 8413 70 30 00, 8413 70 35 00, 8413 70 45 00
+  - Line 76: Code '8413 70 00 00' is a generalized group. Official DBF has specific sub-codes: 8413 70 21 00, 8413 70 29 00, 8413 70 30 00, 8413 70 35 00, 8413 70 45 00
+  - Line 77: Code '8413 70 00 00' is a generalized group. Official DBF has specific sub-codes: 8413 70 21 00, 8413 70 29 00, 8413 70 30 00, 8413 70 35 00, 8413 70 45 00
+  - Line 78: Code '8413 70 00 00' is a generalized group. Official DBF has specific sub-codes: 8413 70 21 00, 8413 70 29 00, 8413 70 30 00, 8413 70 35 00, 8413 70 45 00
+  - Line 79: Code '8413 70 00 00' is a generalized group. Official DBF has specific sub-codes: 8413 70 21 00, 8413 70 29 00, 8413 70 30 00, 8413 70 35 00, 8413 70 45 00
+  - Line 80: Code '8413 70 00 00' is a generalized group. Official DBF has specific sub-codes: 8413 70 21 00, 8413 70 29 00, 8413 70 30 00, 8413 70 35 00, 8413 70 45 00
+  - Line 81: Code '8413 70 00 00' is a generalized group. Official DBF has specific sub-codes: 8413 70 21 00, 8413 70 29 00, 8413 70 30 00, 8413 70 35 00, 8413 70 45 00
+  - Line 93: Code '8462 31 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 94: Code '8462 31 00 00' NOT FOUND in DBF. (No valid parent found)
+
+📄 File: batch_009.csv
+  - Line 4: Code '8479 89 97 00' is a generalized group. Official DBF has specific sub-codes: 8479 89 97 10, 8479 89 97 20, 8479 89 97 30, 8479 89 97 50, 8479 89 97 90
+  - Line 7: Code '8456 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8456 11 10 00, 8456 11 90 00
+  - Line 8: Code '8466 93 00 00' is a generalized group. Official DBF has specific sub-codes: 8466 93 40 00, 8466 93 50 00, 8466 93 60 00
+  - Line 9: Code '8466 93 00 00' is a generalized group. Official DBF has specific sub-codes: 8466 93 40 00, 8466 93 50 00, 8466 93 60 00
+  - Line 10: Code '8479 89 97 00' is a generalized group. Official DBF has specific sub-codes: 8479 89 97 10, 8479 89 97 20, 8479 89 97 30, 8479 89 97 50, 8479 89 97 90
+  - Line 11: Code '8418 69 00 00' is a generalized group. Official DBF has specific sub-codes: 8418 69 00, 8418 69 00 10, 8418 69 00 90
+  - Line 12: Code '8422 40 00 00' is a generalized group. Official DBF has specific sub-codes: 8422 40 00, 8422 40 00 10, 8422 40 00 90
+  - Line 13: Code '7308 90 99 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 14: Code '8466 20 00 00' is a generalized group. Official DBF has specific sub-codes: 8466 20 20 00, 8466 20 91 00, 8466 20 98 00
+  - Line 19: Code '9406 90 99 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 30: Code '8461 40 00 00' is a generalized group. Official DBF has specific sub-codes: 8461 40 11 00, 8461 40 19 00, 8461 40 31 00, 8461 40 39 00, 8461 40 71 00
+  - Line 39: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 40: Code '9025 19 80 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 48: Code '8514 30 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 49: Code '8514 30 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 50: Code '8514 30 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 56: Code '3920 20 10 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 57: Code '3920 20 10 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 59: Code '8422 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8422 30 00, 8422 30 00 10, 8422 30 00 91, 8422 30 00 99
+  - Line 61: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 62: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 63: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 64: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 65: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 66: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 67: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 68: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 69: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 70: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 71: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 72: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 73: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 74: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 75: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 76: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 77: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 78: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 79: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 80: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 81: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 82: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 83: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 84: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 85: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 86: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 87: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 88: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 89: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 90: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 91: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 92: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 93: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 94: Code '8467 11 00 00' is a generalized group. Official DBF has specific sub-codes: 8467 11 10 00, 8467 11 90 00
+  - Line 96: Code '8516 29 90 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 97: Code '8544 49 90 00' NOT FOUND in DBF. (No valid parent found)
+
+📄 File: batch_010.csv
+  - Line 6: Code '8450 20 10 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 7: Code '8450 20 10 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 8: Code '8462 21 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 9: Code '8462 21 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 10: Code '8462 21 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 11: Code '8462 21 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 12: Code '8462 21 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 13: Code '8462 21 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 14: Code '8462 21 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 15: Code '8462 21 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 16: Code '8462 21 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 17: Code '8462 21 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 18: Code '8462 21 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 19: Code '8462 21 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 20: Code '8462 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8462 29 10 00, 8462 29 90 00
+  - Line 21: Code '8203 20 10 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 22: Code '8203 20 10 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 23: Code '8462 21 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 24: Code '8203 20 10 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 25: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 26: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 27: Code '8462 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8462 29 10 00, 8462 29 90 00
+  - Line 28: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 29: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 30: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 31: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 32: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 33: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 34: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 35: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 36: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 37: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 38: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 39: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 40: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 41: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 42: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 43: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 44: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 45: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 46: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 47: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 48: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 49: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 50: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 51: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 52: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 53: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 54: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 55: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 56: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 57: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 58: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 59: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 60: Code '8515 90 00 00' is a generalized group. Official DBF has specific sub-codes: 8515 90 20 00, 8515 90 80 00
+  - Line 61: Code '9030 33 10 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 62: Code '9030 33 10 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 63: Code '9030 33 10 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 64: Code '9030 33 10 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 65: Code '8477 59 00 00' is a generalized group. Official DBF has specific sub-codes: 8477 59 10, 8477 59 10 10, 8477 59 10 90, 8477 59 80 00
+  - Line 66: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 67: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 68: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 69: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 70: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 71: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 72: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 73: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 74: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 75: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 76: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 77: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 78: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 79: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 80: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 81: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 82: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 83: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 84: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 85: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 86: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 100: Code '8526 91 80 00' is a generalized group. Official DBF has specific sub-codes: 8526 91 80 10, 8526 91 80 90
+  - Line 101: Code '8526 91 80 00' is a generalized group. Official DBF has specific sub-codes: 8526 91 80 10, 8526 91 80 90
+
+📄 File: batch_011.csv
+  - Line 3: Code '8462 99 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 4: Code '8462 99 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 5: Code '8462 99 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 6: Code '8462 99 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 7: Code '8462 99 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 9: Code '8542 33 00 00' is a generalized group. Official DBF has specific sub-codes: 8542 33 10 00, 8542 33 90 00
+  - Line 10: Code '8542 33 00 00' is a generalized group. Official DBF has specific sub-codes: 8542 33 10 00, 8542 33 90 00
+  - Line 13: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 14: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 15: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 36: Code '8424 89 90 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 37: Code '8424 89 90 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 38: Code '8424 89 90 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 39: Code '8424 89 90 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 40: Code '8424 89 90 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 41: Code '8427 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8427 10 10 00, 8427 10 90 00
+  - Line 59: Code '8303 00 00 00' is a generalized group. Official DBF has specific sub-codes: 830300, 8303 00 40 00, 8303 00 90 00
+  - Line 60: Code '8303 00 00 00' is a generalized group. Official DBF has specific sub-codes: 830300, 8303 00 40 00, 8303 00 90 00
+  - Line 61: Code '8303 00 00 00' is a generalized group. Official DBF has specific sub-codes: 830300, 8303 00 40 00, 8303 00 90 00
+  - Line 62: Code '8303 00 00 00' is a generalized group. Official DBF has specific sub-codes: 830300, 8303 00 40 00, 8303 00 90 00
+  - Line 63: Code '8303 00 00 00' is a generalized group. Official DBF has specific sub-codes: 830300, 8303 00 40 00, 8303 00 90 00
+  - Line 64: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 67: Code '8525 80 19 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 68: Code '8403 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8403 10 10 00, 8403 10 90, 8403 10 90 10, 8403 10 90 20, 8403 10 90 90
+  - Line 70: Code '8531 10 95 00' is a generalized group. Official DBF has specific sub-codes: 8531 10 95 10, 8531 10 95 90
+  - Line 71: Code '8403 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8403 10 10 00, 8403 10 90, 8403 10 90 10, 8403 10 90 20, 8403 10 90 90
+  - Line 89: Code '8460 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8460 29 10 00, 8460 29 90 00
+  - Line 90: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 91: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 92: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 93: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 94: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 95: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 96: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 97: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 98: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 99: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 100: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 101: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+
+📄 File: batch_012.csv
+  - Line 2: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 3: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 4: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 5: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 6: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 7: Code '9403 20 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 20 20 00, 9403 20 80 00
+  - Line 9: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 10: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 11: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 12: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 13: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 14: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 15: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 16: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 17: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 18: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 19: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 20: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 21: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 22: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 23: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 24: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 25: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 26: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 27: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 28: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 29: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 30: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 31: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 32: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 33: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 34: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 35: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 36: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 37: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 38: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 39: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 40: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 41: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 42: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 43: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 44: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 51: Code '8422 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8422 30 00, 8422 30 00 10, 8422 30 00 91, 8422 30 00 99
+  - Line 52: Code '8465 95 00 00' is a generalized group. Official DBF has specific sub-codes: 8465 95 00, 8465 95 00 10, 8465 95 00 90
+  - Line 57: Code '8528 72 00 00' is a generalized group. Official DBF has specific sub-codes: 8528 72 10 00, 8528 72 20 00, 8528 72 30 00, 8528 72 40 00, 8528 72 60 00
+
+📄 File: batch_013.csv
+  - Line 2: Code '8516 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8516 29 10 00, 8516 29 50 00, 8516 29 91 00, 8516 29 99 00
+  - Line 3: Code '8516 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8516 29 10 00, 8516 29 50 00, 8516 29 91 00, 8516 29 99 00
+  - Line 4: Code '8516 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8516 29 10 00, 8516 29 50 00, 8516 29 91 00, 8516 29 99 00
+  - Line 5: Code '8516 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8516 29 10 00, 8516 29 50 00, 8516 29 91 00, 8516 29 99 00
+  - Line 6: Code '8516 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8516 29 10 00, 8516 29 50 00, 8516 29 91 00, 8516 29 99 00
+  - Line 7: Code '8516 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8516 29 10 00, 8516 29 50 00, 8516 29 91 00, 8516 29 99 00
+  - Line 8: Code '8516 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8516 29 10 00, 8516 29 50 00, 8516 29 91 00, 8516 29 99 00
+  - Line 9: Code '8516 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8516 29 10 00, 8516 29 50 00, 8516 29 91 00, 8516 29 99 00
+  - Line 10: Code '8516 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8516 29 10 00, 8516 29 50 00, 8516 29 91 00, 8516 29 99 00
+  - Line 11: Code '8516 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8516 29 10 00, 8516 29 50 00, 8516 29 91 00, 8516 29 99 00
+  - Line 12: Code '8516 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8516 29 10 00, 8516 29 50 00, 8516 29 91 00, 8516 29 99 00
+  - Line 13: Code '8516 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8516 29 10 00, 8516 29 50 00, 8516 29 91 00, 8516 29 99 00
+  - Line 14: Code '8419 50 00 00' is a generalized group. Official DBF has specific sub-codes: 8419 50 20 00, 8419 50 80 00
+  - Line 15: Code '8419 50 00 00' is a generalized group. Official DBF has specific sub-codes: 8419 50 20 00, 8419 50 80 00
+  - Line 32: Code '8443 32 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 32 10 00, 8443 32 80 00
+  - Line 33: Code '8419 89 00 00' is a generalized group. Official DBF has specific sub-codes: 8419 89 10 00, 8419 89 30 00, 8419 89 98 00
+  - Line 34: Code '8419 89 00 00' is a generalized group. Official DBF has specific sub-codes: 8419 89 10 00, 8419 89 30 00, 8419 89 98 00
+  - Line 36: Code '9031 80 00 00' is a generalized group. Official DBF has specific sub-codes: 9031 80 20, 9031 80 20 10, 9031 80 20 20, 9031 80 20 90, 9031 80 80 00
+  - Line 37: Code '9031 80 00 00' is a generalized group. Official DBF has specific sub-codes: 9031 80 20, 9031 80 20 10, 9031 80 20 20, 9031 80 20 90, 9031 80 80 00
+  - Line 38: Code '9031 80 00 00' is a generalized group. Official DBF has specific sub-codes: 9031 80 20, 9031 80 20 10, 9031 80 20 20, 9031 80 20 90, 9031 80 80 00
+  - Line 39: Code '8443 99 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 99 10 00, 8443 99 90, 8443 99 90 10, 8443 99 90 90
+  - Line 40: Code '8443 99 00 00' is a generalized group. Official DBF has specific sub-codes: 8443 99 10 00, 8443 99 90, 8443 99 90 10, 8443 99 90 90
+  - Line 41: Code '8460 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8460 29 10 00, 8460 29 90 00
+  - Line 67: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 68: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 69: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 70: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 71: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 72: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 73: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 74: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 75: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 76: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 77: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 78: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 79: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 80: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 81: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 82: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 83: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 84: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 85: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 86: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 87: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 88: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 89: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 90: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 92: Code '8709 19 00 00' is a generalized group. Official DBF has specific sub-codes: 8709 19 10 00, 8709 19 90 00
+  - Line 96: Code '8459 61 00 00' is a generalized group. Official DBF has specific sub-codes: 8459 61 10 00, 8459 61 90 00
+  - Line 98: Code '8419 50 00 00' is a generalized group. Official DBF has specific sub-codes: 8419 50 20 00, 8419 50 80 00
+  - Line 99: Code '8419 50 00 00' is a generalized group. Official DBF has specific sub-codes: 8419 50 20 00, 8419 50 80 00
+  - Line 100: Code '8419 50 00 00' is a generalized group. Official DBF has specific sub-codes: 8419 50 20 00, 8419 50 80 00
+  - Line 101: Code '8419 50 00 00' is a generalized group. Official DBF has specific sub-codes: 8419 50 20 00, 8419 50 80 00
+
+📄 File: batch_014.csv
+  - Line 2: Code '8419 39 00 00' is a generalized group. Official DBF has specific sub-codes: 8419 39 00, 8419 39 00 10, 8419 39 00 90
+  - Line 3: Code '8419 39 00 00' is a generalized group. Official DBF has specific sub-codes: 8419 39 00, 8419 39 00 10, 8419 39 00 90
+  - Line 4: Code '8424 89 00 00' is a generalized group. Official DBF has specific sub-codes: 8424 89 40 00, 8424 89 70 00
+  - Line 5: Code '8462 99 00 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 9: Code '9031 80 89 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 10: Code '9031 80 89 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 11: Code '9031 80 89 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 15: Code '8421 23 00 00' is a generalized group. Official DBF has specific sub-codes: 8421 23 00, 8421 23 00 10, 8421 23 00 30, 8421 23 00 90
+  - Line 16: Code '9406 90 00 00' is a generalized group. Official DBF has specific sub-codes: 9406 90 10 00, 9406 90 31 00, 9406 90 38 00, 9406 90 90 00
+  - Line 17: Code '8523 51 00 00' is a generalized group. Official DBF has specific sub-codes: 8523 51 10 00, 8523 51 90, 8523 51 90 91, 8523 51 90 93, 8523 51 90 99
+  - Line 18: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 19: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 20: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 21: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 22: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 23: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 24: Code '8480 71 00 00' is a generalized group. Official DBF has specific sub-codes: 8480 71 00, 8480 71 00 10, 8480 71 00 90
+  - Line 27: Code '8525 80 30 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 35: Code '8418 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8418 10 20, 8418 10 20 10, 8418 10 20 91, 8418 10 20 98, 8418 10 80
+  - Line 36: Code '8418 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8418 10 20, 8418 10 20 10, 8418 10 20 91, 8418 10 20 98, 8418 10 80
+  - Line 37: Code '8418 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8418 10 20, 8418 10 20 10, 8418 10 20 91, 8418 10 20 98, 8418 10 80
+  - Line 38: Code '9406 90 00 00' is a generalized group. Official DBF has specific sub-codes: 9406 90 10 00, 9406 90 31 00, 9406 90 38 00, 9406 90 90 00
+  - Line 52: Code '8537 10 00 00' is a generalized group. Official DBF has specific sub-codes: 8537 10 10 00, 8537 10 91 00, 8537 10 95 00, 8537 10 98, 8537 10 98 10
+  - Line 54: Code '8544 49 93 00' is a generalized group. Official DBF has specific sub-codes: 8544 49 93 10, 8544 49 93 91, 8544 49 93 93, 8544 49 93 98
+  - Line 55: Code '8544 49 93 00' is a generalized group. Official DBF has specific sub-codes: 8544 49 93 10, 8544 49 93 91, 8544 49 93 93, 8544 49 93 98
+  - Line 56: Code '9403 30 00 00' is a generalized group. Official DBF has specific sub-codes: 9403 30 11 00, 9403 30 19 00, 9403 30 91 00, 9403 30 99 00
+  - Line 66: Code '8460 29 00 00' is a generalized group. Official DBF has specific sub-codes: 8460 29 10 00, 8460 29 90 00
+  - Line 67: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 68: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 69: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 70: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 71: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 72: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 73: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 74: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 75: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 76: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 77: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 78: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 79: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 80: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 81: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 82: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 83: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 84: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 85: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 86: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 87: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 88: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 89: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 90: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 91: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 92: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 93: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 94: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 95: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 96: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 96: Logic Mismatch for 'Штамп для розвальцьовування газового колектора (Mouth Blowing Mould)'. Found '8207 30 00 00', Expected category '8480' (Moulds/Forms (8480))
+  - Line 97: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 98: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 99: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 100: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 101: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+
+📄 File: batch_015.csv
+  - Line 2: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 3: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 4: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 5: Code '8207 30 00 00' is a generalized group. Official DBF has specific sub-codes: 8207 30 10, 8207 30 10 10, 8207 30 10 90, 8207 30 90 00
+  - Line 97: Code '8537 10 99 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 98: Code '8537 10 99 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 99: Code '8537 10 99 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 100: Code '8537 10 99 00' NOT FOUND in DBF. (No valid parent found)
+  - Line 101: Code '8537 10 99 00' NOT FOUND in DBF. (No valid parent found)
+
